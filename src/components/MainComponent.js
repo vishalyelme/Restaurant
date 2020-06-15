@@ -1,10 +1,7 @@
 import React,{ Component} from 'react';
 import Menu from './MenuComponent';
 import DishDetail from "./DishdetailComponent";
-import {DISHES} from "../shared/dishes";
-import { COMMENTS } from "../shared/comments";
-import { LEADERS } from "../shared/leaders";
-import { PROMOTIONS } from "../shared/promotions";  
+
 import Header from "./HeaderComponent";
 import Footer from "./FooterComponent";
 import Home from  "./HomeComponent";
