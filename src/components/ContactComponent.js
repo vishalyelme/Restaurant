@@ -153,7 +153,7 @@ class Contact extends Component{
                                             required: 'Required',
                                             validEmail: 'Invalid Email Address'
                                         }}
-                                     />
+                                    />
                                 </Col>
                             </Row>
                             
